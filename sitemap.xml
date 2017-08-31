@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://prokmlm-pro.tk/index.html</loc>
+    <lastmod>2017-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://prokmlm-pro.tk/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://prokmlm-pro.tk/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://prokmlm-pro.tk/images/%D1%80%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://prokmlm-pro.tk/images/mlm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://prokmlm-pro.tk/images/level1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://prokmlm-pro.tk/images/level2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://prokmlm-pro.tk/images/level3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://prokmlm-pro.tk/images/level4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://prokmlm-pro.tk/images/bp-creditcard.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://prokmlm-pro.tk/images/platezhnie_sistemy.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://prokmlm-pro.tk/assets/iphone_icon.png</loc>
+    <lastmod>2014-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

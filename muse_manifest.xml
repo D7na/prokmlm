@@ -1,0 +1,119 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prokmlm-pro.tk" resolutions="1x" timestamp="1504221478068">
+  <folder name="css">
+    <file name="site_global.css" crc="442747762"/>
+    <file name="master_a-master.css" crc="4107815432" ref="index"/>
+    <file name="index.css" crc="100911670" ref="index"/>
+    <file name="iefonts_index.css" crc="336524581" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="iphone_icon.png" crc="4052632414" seo="true" mt="1390244602000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="3849126041" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="phone>index:tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="3770351119" ref="tablet>index:index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="tablet>index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="tablet>index:index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="tablet>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="461114565" ref="phone>index"/>
+    <file name="background.jpg" crc="3878372217" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-u2671.png" crc="110183793" ref="phone>index"/>
+    <file name="event-icons-14-u2716.png" crc="3903926004" ref="phone>index"/>
+    <file name="event-icons-7-u2711.png" crc="3895166275" ref="phone>index"/>
+    <file name="arrow-pattern.jpg" crc="3855197347" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow-pattern-up.jpg" crc="344839460" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background-u2876-fr.png" crc="3968838852" ref="tablet>index"/>
+    <file name="logo-u2928.png" crc="110183793" ref="tablet>index"/>
+    <file name="event-icons-14-u2953.png" crc="3903926004" ref="tablet>index"/>
+    <file name="event-icons-7-u2949.png" crc="3895166275" ref="tablet>index"/>
+    <file name="speakers-1-u3187-fr.jpg" crc="4115761325" ref="tablet>index"/>
+    <file name="speakers-5-u3124-fr.jpg" crc="450044071" ref="tablet>index"/>
+    <file name="speakers-12-u3255-fr.jpg" crc="495237319" ref="tablet>index"/>
+    <file name="speakers-4-u3390-fr.jpg" crc="3950495990" ref="tablet>index"/>
+    <file name="speakers-11-u3259-fr.jpg" crc="4240316568" ref="tablet>index"/>
+    <file name="speakers-9-u3294-fr.jpg" crc="195747666" ref="tablet>index"/>
+    <file name="event-icons-14-u3437.png" crc="3903926004" ref="tablet>index"/>
+    <file name="event-icons-7-u3433.png" crc="3895166275" ref="tablet>index"/>
+    <file name="12-2014-lexus-rc-coupe-2.jpg" crc="61400882" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12-2014-lexus-rc-coupe-1.jpg" crc="311736164" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="рисунок1.png" crc="109571648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mlm.jpg" crc="3861946139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="level1.jpg" crc="498679522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="level2.jpg" crc="228366643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="level3.jpg" crc="460247754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="level4.jpg" crc="3902618004" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bp-creditcard.jpg" crc="271321682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="platezhnie_sistemy.png" crc="393273265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bmz93_wtr-e-crop-u1985.jpg" crc="3957602652" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9ajan4hqtw8-crop-u1783.jpg" crc="452593490" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="я-crop-u2040.jpg" crc="278493324" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3945492305" ref="tablet>index"/>
+      <file name="index.css" crc="384743953" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4141979242" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4285145268" seo="true" mt="1504189677054" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="391422818" ref="phone>index"/>
+      <file name="index.css" crc="56370894" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3958403344" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="382583698" seo="true" mt="1504189677706" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="406652266" seo="true" mt="1504221384268" redirect="true"/>
+</manifest>
