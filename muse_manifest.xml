@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prokmlm-pro.tk" resolutions="1x" timestamp="1504259441828">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prokmlm-pro.tk" resolutions="1x" timestamp="1504260383603">
   <folder name="css">
     <file name="site_global.css" crc="442747762"/>
-    <file name="master_a-master.css" crc="227792590" ref="index:payment"/>
-    <file name="index.css" crc="3780339842" ref="index"/>
+    <file name="master_a-master.css" crc="4049159717" ref="index:payment"/>
+    <file name="index.css" crc="3781078136" ref="index"/>
     <file name="iefonts_index.css" crc="336524581" ref="index"/>
-    <file name="payment.css" crc="4286382681" ref="payment"/>
+    <file name="payment.css" crc="289301830" ref="payment"/>
     <file name="iefonts_payment.css" crc="4034240482" ref="payment"/>
   </folder>
   <folder name="assets">
@@ -86,6 +86,6 @@
     </folder>
     <file name="index.html" crc="178483002" seo="true" mt="1504243075314" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4294955802" seo="true" mt="1504257405398" redirect="true"/>
-  <file name="payment.html" crc="3852259191" seo="true" mt="1504259389918" redirect="true"/>
+  <file name="index.html" crc="310819553" seo="true" mt="1504260362452" redirect="true"/>
+  <file name="payment.html" crc="4114622481" seo="true" mt="1504260362452" redirect="true"/>
 </manifest>

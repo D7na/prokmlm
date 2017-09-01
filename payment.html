@@ -17,8 +17,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Payment</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=442747762"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=227792590"/>
-  <link rel="stylesheet" type="text/css" href="css/payment.css?crc=4286382681" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4049159717"/>
+  <link rel="stylesheet" type="text/css" href="css/payment.css?crc=289301830" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_payment.css?crc=4034240482"/>
@@ -166,26 +166,10 @@ Copyright © 2016-<SCRIPT LANGUAGE="JavaScript">
         <div class="Snap-Text---H5 clearfix colelem" id="u794-4"><!-- content -->
          <h5>Контакты:</h5>
         </div>
-        <div class="clearfix colelem" id="u791-12"><!-- content -->
-         <h6 class="Snap-Text---H6">55 N. Plenty Street</h6>
-         <h6 class="Snap-Text---H6">Suite 600A-</h6>
-         <h6 class="Snap-Text---H6">Los Angeles, CA 90210</h6>
-         <h6 class="Snap-Text---H6">Tel (888) 525-1234</h6>
-         <h6 class="Snap-Text---H6">Fax (888) 525-1235</h6>
-        </div>
-        <div class="clearfix colelem" id="pbuttonu375"><!-- group -->
-         <div class="pointer_cursor Button clearfix grpelem" id="buttonu375"><!-- container box -->
-          <a class="block" href="http://www.facebook.com"><!-- Block link tag --></a>
-          <a class="nonblock nontext grpelem" id="u377" href="http://www.facebook.com"><!-- custom html --><i class="fa fa-facebook"></i></a>
-         </div>
-         <div class="pointer_cursor Button clearfix grpelem" id="buttonu379"><!-- container box -->
-          <a class="block" href="http://twitter.com"><!-- Block link tag --></a>
-          <a class="nonblock nontext grpelem" id="u381" href="http://www.facebook.com"><!-- custom html --><i class="fa fa-twitter"></i></a>
-         </div>
-         <div class="pointer_cursor Button clearfix grpelem" id="buttonu383"><!-- container box -->
-          <a class="block" href="http://google.plus.com"><!-- Block link tag --></a>
-          <a class="nonblock nontext grpelem" id="u385" href="http://www.facebook.com"><!-- custom html --><i class="fa fa-google-plus"></i></a>
-         </div>
+        <div class="clearfix colelem" id="u791-8"><!-- content -->
+         <h6 class="Snap-Text---H6" id="u791-2">Телефон: +7 999 171-98-09</h6>
+         <h6 class="Snap-Text---H6" id="u791-4">Email: kin0405@gmail.com</h6>
+         <h6 class="Snap-Text---H6" id="u791-6">Вконтакте: vk.com/kuzanostra</h6>
         </div>
        </div>
       </div>
@@ -207,14 +191,14 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#u982-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,439.05]},{"speed":[null,0],"in":[439.05,Infinity]}]);/* scroll effect */
-$('#u294-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,439.1]},{"speed":[null,0],"in":[439.1,Infinity]}]);/* scroll effect */
-$('#u938-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,439.05]},{"speed":[null,0],"in":[439.05,Infinity]}]);/* scroll effect */
-$('#u938').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,439.05],"opacity":100},{"in":[439.05,439.05],"opacity":50},{"fade":60.9,"in":[439.05,Infinity],"opacity":0}]);/* scroll effect */
-$('#u1039-6').registerOpacityScrollEffect([{"fade":103.45,"in":[-Infinity,39.95],"opacity":100},{"in":[39.95,39.95],"opacity":100},{"fade":138,"in":[39.95,Infinity],"opacity":0}]);/* scroll effect */
-$('#u1040-6').registerOpacityScrollEffect([{"fade":103.45,"in":[-Infinity,192.05],"opacity":100},{"in":[192.05,192.05],"opacity":100},{"fade":138,"in":[192.05,Infinity],"opacity":0}]);/* scroll effect */
-$('#u4516-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,440]},{"speed":[null,0],"in":[440,Infinity]}]);/* scroll effect */
-$('#menuu852').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,440]},{"speed":[0,0],"in":[440,Infinity]}]);/* scroll effect */
+$('#u982-bw').registerPositionScrollEffect([{"in":[-Infinity,439.05],"speed":[null,1]},{"in":[439.05,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#u294-bw').registerPositionScrollEffect([{"in":[-Infinity,439.1],"speed":[null,1]},{"in":[439.1,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#u938-bw').registerPositionScrollEffect([{"in":[-Infinity,439.05],"speed":[null,1]},{"in":[439.05,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#u938').registerOpacityScrollEffect([{"opacity":100,"in":[-Infinity,439.05],"fade":50},{"in":[439.05,439.05],"opacity":50},{"opacity":0,"in":[439.05,Infinity],"fade":60.9}]);/* scroll effect */
+$('#u1039-6').registerOpacityScrollEffect([{"opacity":100,"in":[-Infinity,39.95],"fade":103.45},{"in":[39.95,39.95],"opacity":100},{"opacity":0,"in":[39.95,Infinity],"fade":138}]);/* scroll effect */
+$('#u1040-6').registerOpacityScrollEffect([{"opacity":100,"in":[-Infinity,192.05],"fade":103.45},{"in":[192.05,192.05],"opacity":100},{"opacity":0,"in":[192.05,Infinity],"fade":138}]);/* scroll effect */
+$('#u4516-bw').registerPositionScrollEffect([{"in":[-Infinity,440],"speed":[null,1]},{"in":[440,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#menuu852').registerPositionScrollEffect([{"in":[-Infinity,440],"speed":[0,1]},{"in":[440,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
