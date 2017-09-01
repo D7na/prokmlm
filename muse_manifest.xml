@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prokmlm-pro.tk" resolutions="1x" timestamp="1504246050191">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prokmlm-pro.tk" resolutions="1x" timestamp="1504259441828">
   <folder name="css">
     <file name="site_global.css" crc="442747762"/>
-    <file name="master_a-master.css" crc="206305289" ref="index:payment"/>
-    <file name="index.css" crc="94614241" ref="index"/>
+    <file name="master_a-master.css" crc="227792590" ref="index:payment"/>
+    <file name="index.css" crc="3780339842" ref="index"/>
     <file name="iefonts_index.css" crc="336524581" ref="index"/>
-    <file name="payment.css" crc="4098597663" ref="payment"/>
-    <file name="iefonts_payment.css" crc="458435932" ref="payment"/>
+    <file name="payment.css" crc="4286382681" ref="payment"/>
+    <file name="iefonts_payment.css" crc="4034240482" ref="payment"/>
   </folder>
   <folder name="assets">
     <file name="iphone_icon.png" crc="4052632414" seo="true" mt="1390244602000"/>
@@ -15,37 +15,33 @@
     <file name="museutils.js" crc="4232573551" ref="phone>index:index:payment"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:index:payment"/>
     <file name="museconfig.js" crc="3849126041" ref="phone>index:index:payment"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:payment"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="jquery.watch.js" crc="3844535323" ref="phone>index:index:payment"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="index:payment"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:payment"/>
     <file name="require.js" crc="4234670167" ref="phone>index:index:payment"/>
-    <file name="webpro.js" crc="3770351119" ref="index:payment"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
     <file name="touchswipe.js" crc="3912873526" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="146279342" ref="index:payment"/>
-    <file name="form_check.php" crc="3841221102" ref="payment"/>
-    <file name="form_throttle.php" crc="4048049783" ref="payment"/>
-    <file name="form_process.php" crc="3899230280" ref="payment"/>
-    <file name="form-u5817.php" crc="4281790694" ref="payment"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3956216763" ref="phone>index:payment"/>
+    <file name="a-master-favicon.ico" crc="3956216763" ref="phone>index:index"/>
     <file name="arrow-pattern.jpg" crc="3855197347" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="arrow-pattern-up.jpg" crc="344839460" ref="index:payment">
+    <file name="arrow-pattern-up.jpg" crc="344839460" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="payment" alt=""/>
     </file>
-    <file name="12-2014-lexus-rc-coupe-2.jpg" crc="61400882" ref="index:payment">
+    <file name="12-2014-lexus-rc-coupe-2.jpg" crc="61400882" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="payment" alt=""/>
     </file>
-    <file name="12-2014-lexus-rc-coupe-1.jpg" crc="311736164" ref="index:payment">
+    <file name="12-2014-lexus-rc-coupe-1.jpg" crc="311736164" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="payment" alt=""/>
     </file>
@@ -83,24 +79,6 @@
     <file name="я-crop-u2040.jpg" crc="278493324" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="radiobuttonunchecked.png" crc="3976871150" ref="payment">
-      <caption webpage="payment" alt=""/>
-    </file>
-    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="payment">
-      <caption webpage="payment" alt=""/>
-    </file>
-    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="payment">
-      <caption webpage="payment" alt=""/>
-    </file>
-    <file name="radiobuttonchecked.png" crc="4193302265" ref="payment">
-      <caption webpage="payment" alt=""/>
-    </file>
-    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="payment">
-      <caption webpage="payment" alt=""/>
-    </file>
-    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="payment">
-      <caption webpage="payment" alt=""/>
-    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -108,6 +86,6 @@
     </folder>
     <file name="index.html" crc="178483002" seo="true" mt="1504243075314" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4051521846" seo="true" mt="1504243203983" redirect="true"/>
-  <file name="payment.html" crc="3813182110" seo="true" mt="1504245985028" redirect="true"/>
+  <file name="index.html" crc="4294955802" seo="true" mt="1504257405398" redirect="true"/>
+  <file name="payment.html" crc="3852259191" seo="true" mt="1504259389918" redirect="true"/>
 </manifest>
